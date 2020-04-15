@@ -1,4 +1,4 @@
-# Onewheel Charger
+# [Onewheel Charger](https://tomashubelbauer.github.io/onewheel-charger)
 
 ## Onewheel Pint Home Charger
 

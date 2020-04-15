@@ -43,3 +43,11 @@ The Onewheel+ is not NMC I don't think and the charger specs are
 58 Vdc / 3.5 A I think, the Onewheel+ XR ultracharger is probably
 63 Vdc / 5 A, but I don't know either of these, so I cannot verify
 these numbers.
+
+## To-Do
+
+### Fix the multimeter and re-check the polarities on the connectors
+
+https://electronics.stackexchange.com/q/493320/116328
+
+### Add a guide on how to wire an XR to Pint charger adapter

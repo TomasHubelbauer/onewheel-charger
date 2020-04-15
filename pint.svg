@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60">
+  <ellipse cx="30" cy="30" rx="20" ry="20" stroke="gray" stroke-width="3" fill="black" />
+  <path d="M 22 10 C 22 25, 38 25, 38 10" stroke="gray" stroke-width="3" />
+
+  <ellipse cx="20" cy="30" rx="4" ry="4" stroke="gray" fill="black" />
+  <text x="25" y="45" stroke="white" text-anchor="middle">1</text>
+  <ellipse cx="40" cy="30" rx="4" ry="4" stroke="gray" fill="black" />
+  <text x="35" y="45" stroke="white" text-anchor="middle">2</text>
+
+</svg>

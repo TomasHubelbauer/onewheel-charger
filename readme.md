@@ -11,12 +11,8 @@ Connector (2 pin female Mini-DIN) pinout:
 
 ![](pint.svg)
 
-1. Ground
-2. 63 Vdc
-
-> Note: My multimeter broke after measuring this so the pinout
-above is from memory. I'll double check it and update the list
-once I've fixed the multimeter.
+1. 63 Vdc
+2. Ground
 
 ## Onewheel+ XR Home Charger
 

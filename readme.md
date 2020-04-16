@@ -47,7 +47,7 @@ Voltage measurements across pairs of leads:
 
 Found polarity:
 
-1. Gound
+1. Ground
 2. 63 Vdc
 3. 63 Vdc
 

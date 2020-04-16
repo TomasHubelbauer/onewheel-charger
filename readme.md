@@ -7,7 +7,7 @@
 - Input: 100-240 Vac, 50/60 Hz, 1 A, 100 VA
 - Output: 63 Vdc, 1.3 A
 
-Connector (2 pin female Mini-DIN) pinout:
+Connector (2 pin female mini DIN) pinout:
 
 ![](pint.svg)
 
@@ -58,6 +58,21 @@ The Onewheel+ is not NMC I don't think and the charger specs are
 63 Vdc / 5 A, but I don't know either of these, so I cannot verify
 these numbers.
 
-## To-Do
+## Onewheel+ XR to Onewheel Pint Charger Adapter
 
-### Add a guide on how to wire an XR to Pint charger adapter
+Connectors:
+
+- 3pin female XLR
+- 2pin female mini DIN
+
+Wiring:
+
+| Onewheel+ XR | Onewheel+ Pint |
+|--------------|----------------|
+| ![](xr.svg)  | ![](pint.svg)  |
+| 1            | 2              |
+| 2            | 1              |
+| 3            |                |
+
+If you do this and it wrecks your board, blame yourself, because I
+am not responsible for that.

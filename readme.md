@@ -13,7 +13,7 @@ Connector (2 pin female Mini-DIN) pinout:
 
 Voltage measurements across pairs of leads:
 
-| - | + |         |
+| - | + | Result  |
 |---|---|---------|
 | 1 | 2 | -63 Vdc |
 | 2 | 1 | +63 Vdc |

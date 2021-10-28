@@ -7,7 +7,7 @@
 - Input: 100-240 Vac, 50/60 Hz, 1 A, 100 VA
 - Output: 63 Vdc, 1.3 A
 
-Connector (2 pin female mini DIN) pinout:
+Connector (2 pin female mini DIN / GX12-2) pinout:
 
 ![](pint.svg)
 
